@@ -5,9 +5,9 @@ Santander’s Magento payment gateway module supports customer credit applicatio
 
 ## Current version
 * Version: 1.0.2ma
-* Release date: 2015-11-24
-* Platform: Magento 1.9.2.2
-* Backward compatibility: 1.9.2.1, 1.9.2.0, 1.9.1.1, 1.9.1.0, 1.9.0.1, 1.9.0.0, 1.8.1.0, 1.8.0.0, 1.7.0.2, 1.7.0.1, 1.7.0.0, 1.6.2.0
+* Release date: 2016-02-25
+* Platform: Magento 1.9.2.4
+* Backward compatibility: 1.9.2.3, 1.9.2.2, 1.9.2.1, 1.9.2.0, 1.9.1.1, 1.9.1.0, 1.9.0.1, 1.9.0.0, 1.8.1.0, 1.8.0.0, 1.7.0.2, 1.7.0.1, 1.7.0.0, 1.6.2.0
 
 ## Changelog ##
 
